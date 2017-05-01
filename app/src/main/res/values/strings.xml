@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">AudiAddict</string>
+
+    <string name="search">Search Library</string>
+    <string name="search_text">This activity is supposed to implement a search for the books already
+    the user\'s library. Also will be able to do furhter searches from this screen itself (button
+    currently just re-pops activity)</string>
+
+    <string name="media_player">Audiobook Player</string>
+    <string name="media_text"> This view is supposed to implement a media player,
+        which plays the selected book. In an alpha it could be the Android media player, but
+    realistically, such an app would implement their own. </string>
+
+    <string name="redskies">Red Seas Under Red Skies</string>
+    <string name="lynch">By John Lynch</string>
+    <string name="narrator_lynch">Narrated by Michael Page</string>
+    <string name="red_seas_blurb">After a brutal battle with the underworld that nearly destroyed
+        him, Locke and his trusted sidekick, Jean, ﬂed the island city of their birth and landed
+        on the exotic shores of Tal Verrar to nurse their wounds. But even at this westernmost edge
+        of civilization, they can\'t rest for long — and are soon back to what they do best:
+        stealing from the undeserving rich and pocketing the proceeds for themselves.
+
+    \n\nThis time, however, they have targeted the grandest prize of all: the Sinspire,
+        the most exclusive and heavily guarded gambling house in the world. Its nine ﬂoors attract
+        the wealthiest clientele — and to rise to the top, one must impress with good credit,
+        amusing behavior... and excruciatingly impeccable play. For there is one cardinal rule,
+        enforced by Requin, the house\'s cold-blooded master: it is death to cheat at any
+        game at the Sinspire.
+
+    \n\nBrazenly undeterred, Locke and Jean have orchestrated an elaborate plan to lie, trick,
+        and swindle their way up the nine ﬂoors... straight to Requin\'s teeming vault. Under the
+        cloak of false identities, they meticulously make their climb — until they are closer
+        to the spoils than ever.
+
+    \n\nBut someone in Tal Verrar has uncovered the duo\'s secret. Someone from their past who has
+        every intention of making the impudent criminals pay for their sins. Now it will take every
+        ounce of cunning to save their mercenary souls. And even that may not be enough...</string>
+
+    <string name="thieves">The Republic Of Thieves</string>
+    <string name="thieves_blurb">With what should have been the greatest heist of their career
+        gone spectacularly sour, Locke and his trusted partner, Jean, have barely escaped with
+        their lives. Or at least Jean has. But Locke is slowly succumbing to a deadly poison that
+        no alchemist or physiker can cure. Yet just as the end is near, a mysterious Bondsmage
+        offers Locke an opportunity that will either save him or finish him off once and for all.
+
+    \n\nMagi political elections are imminent, and the factions are in need of a pawn. If Locke
+        agrees to play the role, sorcery will be used to purge the venom from his body - though
+        the process will be so excruciating he may well wish for death. Locke is opposed, but two
+        factors cause his will to crumble: Jean\'s imploring - and the Bondsmage\'s mention of
+        a woman from Locke\'s past: Sabetha. She is the love of his life, his equal in skill and wit,
+        and now, his greatest rival.
+
+    \n\nLocke was smitten with Sabetha from his first glimpse of her as a young fellow orphan
+        and thief-in-training. But after a tumultuous courtship, Sabetha broke away. Now they will
+        reunite in yet another clash of wills. For faced with his one and only match in both love
+        and trickery, Locke must choose whether to fight Sabetha - or to woo her. It is a decision
+        on which both their lives may depend.
+    </string>
+
+    <string name="lean">The Lean Startup</string>
+    <string name="ries">By Eric Ries</string>
+    <string name="narrator_ries">Narrated by Eric Ries</string>
+    <string name="lean_startup_blurb">Most startups fail. But many of those failures are
+        preventable.  The Lean Startup is a new approach being adopted across the globe, changing
+        the way companies are built and new products are launched.
+
+    \n\nEric Ries defines a startup as an organization dedicated to creating something new under
+        conditions of extreme uncertainty. This is just as true for one person in a garage or a
+        group of seasoned professionals in a Fortune 500 boardroom. What they have in common is a
+        mission to penetrate that fog of uncertainty to discover a successful path
+        to a sustainable business.
+
+    \n\nThe Lean Startup approach fosters companies that are both more capital efficient and that
+        leverage human creativity more effectively. Inspired by lessons from lean manufacturing,
+        it relies on \“validated learning,\” rapid scientific experimentation, as well as a number of
+        counter-intuitive practices that shorten product development cycles, measure actual
+        progress without resorting to vanity metrics, and learn what customers really want.
+        It enables a company to shift directions with agility, altering plans inch by inch,
+        minute by minute.
+
+    \n\nRather than wasting time creating elaborate business plans, The Lean Startup offers
+        entrepreneurs - in companies of all sizes - a way to test their vision continuously,
+        to adapt and adjust before it’s too late. Ries provides a scientific approach to creating
+        and managing successful startups in a age when companies need to innovate more than ever.
+    </string>
+
+    <string name="store">AudiStore</string>
+    <string name="store_text">Implements a store for audioBooks from AudiAddict. Will also need
+    payment solutions, APIs to perhaps accept PayPal and AndroidPay.</string>
+
+</resources>
